@@ -1,0 +1,28 @@
+
+ export default App_API={
+    getProfile:"GetProfile",
+    updateProfile:"UpdateProfile",
+    GetReasonList:"GetReasonList",
+    NewInquiry:"NewInquiry",
+    MarkPunch:"MarkPunch",
+    GetPunch:"GetAttendanceByDate",
+    LeaveApply:"SaveLeaveApplication",
+    GetLeaves:"GetLeaveApplication",
+    UpdateLocation:"UpdateLocation",
+    LocationErrorLog:"LocationErrorLog",
+    GetUserVisitsById:"GetUserVisitsById",
+    GetVisitType:"GetVisitType",
+    GetVisitStatus:"GetVisitType",
+    GetVisitData:"GetVisitData",
+    NewVisit:"NewVisit",
+    PasswordChange:"UpdatePassword",
+    NewRequest:"NewRequest",
+    ServiceType:"get_serviceType_list",
+    IssueType:"get_issueType_list",
+    PlaceOder:"NewOrder",
+    GetOrders:"GetOrderList",
+    GetOrder:"GetOrderById",
+    CloseCall:"CloseCall",
+    fcmToken:"fcmtokenApp",
+    MapKey:'AIzaSyAi0_frnAc6FIidPwXbTkCGM8u-2Ey8SHY'
+};
